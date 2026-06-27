@@ -1,0 +1,50 @@
+[
+  {
+    "question": "How many days of paid annual leave do full-time employees get per year?",
+    "ground_truth": "Full-time employees accrue 20 days of paid annual leave per year."
+  },
+  {
+    "question": "How many days of annual leave can be carried over to the next year?",
+    "ground_truth": "Up to 5 days of unused annual leave may be carried over; anything above 5 is forfeited on December 31."
+  },
+  {
+    "question": "Is a medical certificate needed for sick leave?",
+    "ground_truth": "Yes, a medical certificate is required for sick leave exceeding 3 consecutive days."
+  },
+  {
+    "question": "How many days a week can an employee work remotely, and what approval is needed?",
+    "ground_truth": "Up to 3 days per week with manager approval. Fully remote arrangements need Director-level approval."
+  },
+  {
+    "question": "What is the home-office stipend for fully remote employees?",
+    "ground_truth": "A one-time home-office stipend of $500."
+  },
+  {
+    "question": "What is the daily meal cap during business travel?",
+    "ground_truth": "Meal expenses during business travel are capped at $75 per day."
+  },
+  {
+    "question": "Within how many days must business expenses be submitted?",
+    "ground_truth": "Business expenses must be submitted within 30 days of being incurred."
+  },
+  {
+    "question": "How much paid parental leave do primary caregivers get?",
+    "ground_truth": "Primary caregivers are entitled to 16 weeks of paid parental leave."
+  },
+  {
+    "question": "When are performance reviews conducted?",
+    "ground_truth": "Twice per year, in June and December."
+  },
+  {
+    "question": "What rating makes an employee eligible for the annual bonus pool?",
+    "ground_truth": "A rating of 4 or above."
+  },
+  {
+    "question": "How quickly must lost or stolen equipment be reported?",
+    "ground_truth": "Lost or stolen equipment must be reported to IT within 24 hours."
+  },
+  {
+    "question": "What happens when an employee receives a performance rating of 1?",
+    "ground_truth": "A rating of 1 triggers a 60-day performance improvement plan (PIP)."
+  }
+]
